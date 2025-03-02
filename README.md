@@ -1,1 +1,1 @@
-sppof of the best take feature google pixel 8 series
+sppof of the best take feature on google pixel 8 series
