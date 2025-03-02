@@ -3,8 +3,8 @@ import face_recognition
 import os
 
 # Folder containing multiple images
-SEARCH_FOLDER = "I:\\besttake\\images"  # Change this to your folder name
-TARGET_IMAGE = "I:\\besttake\\images\\20211202_164551.jpg"  # Image where you select the face
+SEARCH_FOLDER = "I:\\Best-Take\\images"  # Change this to your folder name
+TARGET_IMAGE = "I:\\Best-Take\\images\\20211202_164551.jpg"  # Image where you select the face
 
 # Global variables
 selected_face_encoding = None
