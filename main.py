@@ -47,7 +47,7 @@ def process_images(folder_path):
             print(f"📸 Saved: {save_path}")
 
 # Run the script on a folder with images
-image_folder = "I:\\besttake\\images"  # Change this to your actual folder
+image_folder = "I:\\besttake\\images" 
 if os.path.exists(image_folder):
     process_images(image_folder)
 else:
